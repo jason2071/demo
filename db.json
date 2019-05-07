@@ -136,39 +136,6 @@
                     "my_note": ""
                 }
             ]
-        },
-        {
-            "day": 3,
-            "date": "2019-04-01",
-            "routes": [
-                {
-                    "plantrip_id": 350294,
-                    "place_no": 1,
-                    "place_id": 409600,
-                    "title": "วนอุทยานน้ำตกบ๋าหลวง",
-                    "description": "วนอุทยานน้ำตกบ๋าหลวงอยู่ในท้องที่บ้านโคกล่าม ตำบลห้วยยาง อำเภอกระนวน จังหวัดขอนแก่น อยู่ในพื้นที่ป่าสงวนแห่งชาติป่าดงมูล มีเนื้อที่ประมาณ 1,200 ไร่ กรมป่าไม้ได้ประกาศจัดตั้งเมื่อวันที่ 1 ตุลาคม 2526",
-                    "type": "travel",
-                    "picture": "https://bx.files-media.com/ud/resize-cache/200x200/place/137/409600/5be900b4be230.jpg",
-                    "lat": 16.889855,
-                    "lng": 103.086709,
-                    "openclose": "เวลาเปิด-ปิด: 08:30-16:00 น.",
-                    "start_price": 0,
-                    "start_price_text": "",
-                    "province": "ขอนแก่น",
-                    "user_rating": 0,
-                    "rating_total": 0,
-                    "cat_no": 44,
-                    "cat_name": "อุทยานแห่งชาติ",
-                    "cat_icon": "https://bx.files-media.com/ud/categorys/icn_pin_travel.png",
-                    "code": "",
-                    "tatpoint": false,
-                    "point": 0,
-                    "agoda_booking": false,
-                    "star_rating": 0,
-                    "my_price": 1000,
-                    "my_note": ""
-                }
-            ]
         }
     ]
 }
